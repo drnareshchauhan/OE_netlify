@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://oe-frontend.vercel.app/static/css/main.64a25510.chunk.css",
+    "main.js": "https://oe-frontend.vercel.app/static/js/main.05a3e505.chunk.js",
+    "main.js.map": "https://oe-frontend.vercel.app/static/js/main.05a3e505.chunk.js.map",
+    "runtime~main.js": "https://oe-frontend.vercel.app/static/js/runtime~main.1711eb9f.js",
+    "runtime~main.js.map": "https://oe-frontend.vercel.app/static/js/runtime~main.1711eb9f.js.map",
+    "static/css/2.46439c26.chunk.css": "https://oe-frontend.vercel.app/static/css/2.46439c26.chunk.css",
+    "static/js/2.c952f1c1.chunk.js": "https://oe-frontend.vercel.app/static/js/2.c952f1c1.chunk.js",
+    "static/js/2.c952f1c1.chunk.js.map": "https://oe-frontend.vercel.app/static/js/2.c952f1c1.chunk.js.map",
+    "index.html": "https://oe-frontend.vercel.app/index.html",
+    "precache-manifest.d1f2c2783739b24c45d3df84ba769d93.js": "https://oe-frontend.vercel.app/precache-manifest.d1f2c2783739b24c45d3df84ba769d93.js",
+    "service-worker.js": "https://oe-frontend.vercel.app/service-worker.js",
+    "static/css/2.46439c26.chunk.css.map": "https://oe-frontend.vercel.app/static/css/2.46439c26.chunk.css.map",
+    "static/css/main.64a25510.chunk.css.map": "https://oe-frontend.vercel.app/static/css/main.64a25510.chunk.css.map",
+    "static/media/homepage.jpeg": "https://oe-frontend.vercel.app/static/media/homepage.4401e82d.jpeg"
+  }
+}
